@@ -1,4 +1,4 @@
-<img width="1907" height="840" alt="image" src="https://github.com/user-attachments/assets/e781dc6a-8a96-47c4-862c-407c383e6dfa" /># Lab 6 — Computer Vision as IoT Sensor
+# Lab 6 — Computer Vision as IoT Sensor
 
 > **Môn học**: Triển khai, phát triển ứng dụng AI và IoT  
 > **Vị trí**: Buổi 6 trong chuỗi AIoT Deployment Pipeline  
